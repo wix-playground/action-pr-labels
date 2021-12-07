@@ -3,6 +3,8 @@
 </p>
 
 # Create a JavaScript Action using TypeScript
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwix-playground%2Faction-pr-labels.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwix-playground%2Faction-pr-labels?ref=badge_shield)
+
 
 Use this template to bootstrap the creation of a TypeScript action.:rocket:
 
@@ -103,3 +105,7 @@ See the [actions tab](https://github.com/actions/typescript-action/actions) for 
 ## Usage:
 
 After testing you can [create a v1 tag](https://github.com/actions/toolkit/blob/master/docs/action-versioning.md) to reference the stable and latest V1 action
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwix-playground%2Faction-pr-labels.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwix-playground%2Faction-pr-labels?ref=badge_large)
